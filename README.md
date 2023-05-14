@@ -23,4 +23,4 @@ Control box with electronics.
 
 ![image](https://github.com/msedej96/small-CNC-mill/assets/103876373/66dc89d7-11c6-4b6e-aa3a-92822efa6de3)
 
-Traces on a engraved PCB. The smallest (usable) trace width is 0.3 mm. Engraved with 0.3 mm V-router bit. 
+Traces on an engraved PCB. The smallest (usable) trace width is 0.3 mm. Engraved with 0.3 mm V-router bit. 
