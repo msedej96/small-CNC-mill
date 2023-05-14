@@ -9,6 +9,6 @@ Round supported linear rails are used on all axes.
 
 Stepper motor drivers (Leadshine DM542EU) have the option of reducing the idle current, which significantly reduces the heating of the stepper motors. The drivers also have the option of microstep setting up to 1/256, built-in self-adjustment and anti-resonance function, which improves the performance of the motors.
 
-The controller board (CNC USB controller Mk2/4) has a USB connection to the computer. It can control four stepper motors and two additional consumers such as a milling motor and dust extraction system. Software for controlling the CNC machine is included
+The controller board (CNC USB controller Mk2/4) has a USB connection to the computer. It can control four stepper motors and two additional consumers such as a milling motor and dust extraction system. Software for controlling the machine with 3D visualization of the machining area is included.
 
 The milling motor (Kress FME1050) is capable of up to 29,000 RPM.
