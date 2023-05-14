@@ -13,4 +13,13 @@ The controller board (CNC USB controller Mk2/4) has a USB connection to the comp
 
 The milling motor (Kress FME1050) is capable of up to 29,000 RPM.
 
-![image](https://github.com/msedej96/small-CNC-mill/assets/103876373/cac82443-61b2-4554-84a3-ba77237547c2)
+![image](https://github.com/msedej96/small-CNC-mill/assets/103876373/7ac739f9-4e57-457b-8dfb-41f03a7dae27)
+
+Small CNC machine.
+
+![image](https://github.com/msedej96/small-CNC-mill/assets/103876373/01b26f56-4213-4e42-b466-b4d8e6018a46)
+Control box with electronics.
+
+![image](https://github.com/msedej96/small-CNC-mill/assets/103876373/66dc89d7-11c6-4b6e-aa3a-92822efa6de3)
+
+Connections on a milled PCB. The smallest (usable) thickness is 0.3 mm.
