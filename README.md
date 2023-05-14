@@ -1,5 +1,6 @@
 # small-CNC-mill
-Small CNC milling machine that is primarily intended for milling prototype PCBs, small wooden and plastic parts.
+Small CNC milling machine that is primarily intended for milling prototype PCBs, small wooden and plastic parts. Working area is approximatley 300x350x120 mm.
+
 
 I designed and assembled the construction from custom made aluminum plates and Bosch Rexroth aluminum profiles.
 The aluminum panels were cut using a water jet material cutting process. At the end, the panels were milled with a milling machine.
@@ -22,4 +23,4 @@ Control box with electronics.
 
 ![image](https://github.com/msedej96/small-CNC-mill/assets/103876373/66dc89d7-11c6-4b6e-aa3a-92822efa6de3)
 
-Connections on a milled PCB. The smallest (usable) thickness is 0.3 mm.
+Traces on a engraved PCB. The smallest (usable) trace width is 0.3 mm. Engraved with 0.3 mm V-router bit. 
